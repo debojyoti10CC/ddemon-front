@@ -3,5 +3,7 @@ dist/
 .env
 .env.*
 .sites-runtime/
+.openai/
+.vercel/
 work/
 *.log

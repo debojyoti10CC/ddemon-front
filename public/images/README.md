@@ -1,5 +1,6 @@
-# Add your artwork
+# Images
 
-Put an optimized WebP, AVIF, SVG or PNG here, then set the heroImage value in src/site.config.js to its public path, such as /images/your-file.webp.
+- `solitary-cottage.png`: landscape background.
+- `profile.png`: portrait used for the X profile link and favicon.
 
-The site works without an image: its task meter, alert scale and layout are made from HTML and SVG. Add a concise heroImageAlt description when the artwork contains meaningful product content.
+Image paths and the landscape description are configured in `src/site.config.js`.
